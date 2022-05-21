@@ -1,0 +1,14 @@
+/media/minhvu/DATA/TestProject/Project.EntityData/bin/Debug/net6.0/Project.EntityData.deps.json
+/media/minhvu/DATA/TestProject/Project.EntityData/bin/Debug/net6.0/Project.EntityData.runtimeconfig.json
+/media/minhvu/DATA/TestProject/Project.EntityData/bin/Debug/net6.0/Project.EntityData.dll
+/media/minhvu/DATA/TestProject/Project.EntityData/bin/Debug/net6.0/ref/Project.EntityData.dll
+/media/minhvu/DATA/TestProject/Project.EntityData/bin/Debug/net6.0/Project.EntityData.pdb
+/media/minhvu/DATA/TestProject/Project.EntityData/obj/Debug/net6.0/Project.EntityData.csproj.AssemblyReference.cache
+/media/minhvu/DATA/TestProject/Project.EntityData/obj/Debug/net6.0/Project.EntityData.GeneratedMSBuildEditorConfig.editorconfig
+/media/minhvu/DATA/TestProject/Project.EntityData/obj/Debug/net6.0/Project.EntityData.AssemblyInfoInputs.cache
+/media/minhvu/DATA/TestProject/Project.EntityData/obj/Debug/net6.0/Project.EntityData.AssemblyInfo.cs
+/media/minhvu/DATA/TestProject/Project.EntityData/obj/Debug/net6.0/Project.EntityData.csproj.CoreCompileInputs.cache
+/media/minhvu/DATA/TestProject/Project.EntityData/obj/Debug/net6.0/Project.EntityData.dll
+/media/minhvu/DATA/TestProject/Project.EntityData/obj/Debug/net6.0/ref/Project.EntityData.dll
+/media/minhvu/DATA/TestProject/Project.EntityData/obj/Debug/net6.0/Project.EntityData.pdb
+/media/minhvu/DATA/TestProject/Project.EntityData/obj/Debug/net6.0/Project.EntityData.genruntimeconfig.cache

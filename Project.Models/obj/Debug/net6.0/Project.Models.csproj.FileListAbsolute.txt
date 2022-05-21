@@ -1,0 +1,12 @@
+/media/minhvu/DATA/TestProject/Project.Models/bin/Debug/net6.0/Project.Models.deps.json
+/media/minhvu/DATA/TestProject/Project.Models/bin/Debug/net6.0/Project.Models.dll
+/media/minhvu/DATA/TestProject/Project.Models/bin/Debug/net6.0/ref/Project.Models.dll
+/media/minhvu/DATA/TestProject/Project.Models/bin/Debug/net6.0/Project.Models.pdb
+/media/minhvu/DATA/TestProject/Project.Models/obj/Debug/net6.0/Project.Models.GeneratedMSBuildEditorConfig.editorconfig
+/media/minhvu/DATA/TestProject/Project.Models/obj/Debug/net6.0/Project.Models.AssemblyInfoInputs.cache
+/media/minhvu/DATA/TestProject/Project.Models/obj/Debug/net6.0/Project.Models.AssemblyInfo.cs
+/media/minhvu/DATA/TestProject/Project.Models/obj/Debug/net6.0/Project.Models.csproj.CoreCompileInputs.cache
+/media/minhvu/DATA/TestProject/Project.Models/obj/Debug/net6.0/Project.Models.dll
+/media/minhvu/DATA/TestProject/Project.Models/obj/Debug/net6.0/ref/Project.Models.dll
+/media/minhvu/DATA/TestProject/Project.Models/obj/Debug/net6.0/Project.Models.pdb
+/media/minhvu/DATA/TestProject/Project.Models/obj/Debug/net6.0/Project.Models.csproj.AssemblyReference.cache

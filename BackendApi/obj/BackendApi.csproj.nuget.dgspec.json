@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/minhvu/DATA/TestProject/BackendApi/BackendApi.csproj": {}
+  },
+  "projects": {
+    "/media/minhvu/DATA/TestProject/BackendApi/BackendApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/minhvu/DATA/TestProject/BackendApi/BackendApi.csproj",
+        "projectName": "BackendApi",
+        "projectPath": "/media/minhvu/DATA/TestProject/BackendApi/BackendApi.csproj",
+        "packagesPath": "/home/minhvu/.nuget/packages/",
+        "outputPath": "/media/minhvu/DATA/TestProject/BackendApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/minhvu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/media/minhvu/DATA/TestProject/Project.Models/Project.Models.csproj": {
+                "projectPath": "/media/minhvu/DATA/TestProject/Project.Models/Project.Models.csproj"
+              },
+              "/media/minhvu/DATA/TestProject/Project.Services/Project.Services.csproj": {
+                "projectPath": "/media/minhvu/DATA/TestProject/Project.Services/Project.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/minhvu/DATA/TestProject/Project.EntityData/Project.EntityData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/minhvu/DATA/TestProject/Project.EntityData/Project.EntityData.csproj",
+        "projectName": "Project.EntityData",
+        "projectPath": "/media/minhvu/DATA/TestProject/Project.EntityData/Project.EntityData.csproj",
+        "packagesPath": "/home/minhvu/.nuget/packages/",
+        "outputPath": "/media/minhvu/DATA/TestProject/Project.EntityData/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/minhvu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/minhvu/DATA/TestProject/Project.Models/Project.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/minhvu/DATA/TestProject/Project.Models/Project.Models.csproj",
+        "projectName": "Project.Models",
+        "projectPath": "/media/minhvu/DATA/TestProject/Project.Models/Project.Models.csproj",
+        "packagesPath": "/home/minhvu/.nuget/packages/",
+        "outputPath": "/media/minhvu/DATA/TestProject/Project.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/minhvu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/minhvu/DATA/TestProject/Project.Services/Project.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/minhvu/DATA/TestProject/Project.Services/Project.Services.csproj",
+        "projectName": "Project.Services",
+        "projectPath": "/media/minhvu/DATA/TestProject/Project.Services/Project.Services.csproj",
+        "packagesPath": "/home/minhvu/.nuget/packages/",
+        "outputPath": "/media/minhvu/DATA/TestProject/Project.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/minhvu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/media/minhvu/DATA/TestProject/Project.EntityData/Project.EntityData.csproj": {
+                "projectPath": "/media/minhvu/DATA/TestProject/Project.EntityData/Project.EntityData.csproj"
+              },
+              "/media/minhvu/DATA/TestProject/Project.Models/Project.Models.csproj": {
+                "projectPath": "/media/minhvu/DATA/TestProject/Project.Models/Project.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
